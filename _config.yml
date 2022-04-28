@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "만고 기술블로그"
+title                    : "BangMango"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bang Mango"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "BangMango"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**IG : **bbakmango"
-  location         : "**경기도** 부천"
+  bio              : " **IG** : bbakmango"
+  location         : " **경기도** , 부천"
   email            :
   links:
     - label: "Email"
